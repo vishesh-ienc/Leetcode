@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishesh-ienc/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/vishesh-ienc/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishesh-ienc/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/vishesh-ienc/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vishesh-ienc/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishesh-ienc/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## String
 |  |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishesh-ienc/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vishesh-ienc/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/vishesh-ienc/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
